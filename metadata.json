@@ -1,0 +1,6 @@
+{
+  "name": "ระบบแบบสอบถามความพึงพอใจการอบรม & Realtime Dashboard",
+  "description": "ระบบประเมินความพึงพอใจการอบรมแบบเรียลไทม์ พร้อมหน้าสแกน QR Code หน้า Dashboard สำหรับจอโปรเจกเตอร์ คำนวณเกณฑ์ 5 ระดับ และส่งออก CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
